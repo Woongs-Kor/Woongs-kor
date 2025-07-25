@@ -7,7 +7,7 @@
 
 
 ## Publications
-- **Kim JW, et al. Identification of atrial fibrillation with single-lead mobile ECG during normal sinus rhythm using deep learning. J Korean Med Sci. 2024;39(5):e56.
+- Kim JW, et al. Identification of atrial fibrillation with single-lead mobile ECG during normal sinus rhythm using deep learning. J Korean Med Sci. 2024;39(5):e56.
   
 <!--
 **Woongs-Kor/Woongs-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
