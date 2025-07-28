@@ -17,4 +17,4 @@
 - Survey Analyst,Junior(사회조사분석사 2급)
 
 ## Contact
-- nomeanness3@gmail.com
+- 📧 Email: nomeanness3@gmail.com
