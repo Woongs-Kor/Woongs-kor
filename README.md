@@ -13,7 +13,7 @@
 
 ## Certifications
 - Big-Data Analysis Engineer(빅데이터분석기사)
-- Advanced Data Analytics Semi-Professional(ADsP)
+- Advanced Data Analytics Semi-Professional(ADsP, 데이터분석 준전문가)
 - Survey Analyst,Junior(사회조사분석사 2급)
 
 ## Contact
