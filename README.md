@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 👤
+Hello, I’m Jiwoong Kim, an aspiring Data Scientist.
+
+I enjoy taking a structured approach to solving problems and have a background in statistics, along with a solid understanding of machine learning and deep learning. I am currently focusing on Natural Language Processing and Computer Vision, and I’m also diving into MLOps. I’m always eager to learn new things and truly appreciate constructive feedback.
 
 
 ## Skills
