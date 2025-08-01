@@ -13,7 +13,7 @@ I enjoy approaching problems in a structured and analytical way, seeking meaning
 
 
 ## 📝 Publications
-- Kim JW, et al. _Identification of atrial fibrillation with single-lead mobile ECG during normal sinus rhythm using deep learning_. **J Korean Med Sci**, 2024. [doi:10.3346/jkms.2024.39.e56](https://doi.org/10.3346/jkms.2024.39.e56)
+- Kim JW, et al. _Identification of Atrial Fibrillation with Single-lead Mobile ECG During Normal Sinus Rhythm Using Deep learning_. **J Korean Med Sci**, 2024. [doi:10.3346/jkms.2024.39.e56](https://doi.org/10.3346/jkms.2024.39.e56)
 
 ## 📜 Certifications
 - Big-Data Analysis Engineer(빅데이터분석기사)
