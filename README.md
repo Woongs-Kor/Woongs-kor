@@ -1,5 +1,5 @@
 ## 👋 About me 
-Hello, I'm **Jiwoong Kim**, an aspiring **Data Scientist** 📊.
+Hello, I'm **Jiwoong Kim**, an aspiring **AI Engineer** 📊.
 
 I majored in statistics and data science, and have developed my understanding of machine learning and deep learning along the way.Currently, I'm interested in **Natural Language Processing**🔤 and **Computer Vision**🖼️.
 
