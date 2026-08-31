@@ -1,5 +1,5 @@
 ## Hi There 👋
-Hi, I'm **Jiwoong Kim** 👋, an aspiring **AI Engineer** 📊 with a background in **Statistics and Data Science**.
+Hi, I'm **Jiwoong Kim** 👋, an aspiring **AI Engineer** 📊 with a background in **Mathematics/Statistics and Data Science**.
 
 I'm passionate about **NLP** 🔤 and **Generative AI**, building practical AI applications for real-world problems.
 
