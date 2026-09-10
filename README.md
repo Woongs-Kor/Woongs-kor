@@ -1,7 +1,11 @@
 ## Hi There 👋
-Hi, I'm **Jiwoong Kim** 👋, an aspiring **AI Engineer** 📊 with a background in **Mathematics/Statistics and Data Science**.
+Hi, I'm **Jiwoong Kim**, an aspiring **AI Engineer** with a background in **Statistics** and **Data Science**.
 
-I'm passionate about **NLP** 🔤 and **Generative AI**, building practical AI applications for real-world problems.
+I'm passionate about **NLP** and **Generative AI**, building practical AI applications for real-world problems.
+
+## 🎓 Education
+- Master of Science in Mathematics and Statistics, Chonnam National University
+- Bachelor of Science in Statistics, Chonnam National University
 
 ## 💻 Tech Stack
 ### Languages
